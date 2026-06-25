@@ -1,2 +1,2 @@
 # Simon-Says-Game
-This is my first projetc
+This is my first project
